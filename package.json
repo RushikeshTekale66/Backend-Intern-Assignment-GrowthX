@@ -1,0 +1,17 @@
+{
+  "name": "backend-intern-assignment-growthx",
+  "version": "1.0.0",
+  "description": "Growth X assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rushikesh Tekale",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.8.1"
+  }
+}
